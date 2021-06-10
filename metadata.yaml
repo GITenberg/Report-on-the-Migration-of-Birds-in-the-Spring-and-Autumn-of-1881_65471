@@ -1,5 +1,8 @@
 _repo: Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1881_65471
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65471-h/images/cover.png
 creator:
   authors:
   - agent_name: Barrington, R.
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '53365'
     url: http://www.gutenberg.org/2009/agents/53365
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65471#Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1881
 gutenberg_issued: '2021-05-30'
 gutenberg_type: Text
 identifiers:
