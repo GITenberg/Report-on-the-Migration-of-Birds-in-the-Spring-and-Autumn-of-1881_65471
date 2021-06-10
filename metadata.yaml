@@ -1,0 +1,41 @@
+_repo: Report-on-the-Migration-of-Birds-in-the-Spring-and-Autumn-of-1881_65471
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Barrington, R.
+    gutenberg_agent_id: '53366'
+    url: http://www.gutenberg.org/2009/agents/53366
+  - agent_name: More, A. G.
+    gutenberg_agent_id: '53367'
+    url: http://www.gutenberg.org/2009/agents/53367
+  - agent_name: Cordeaux, John
+    birthdate: 1831
+    deathdate: 1899
+    gutenberg_agent_id: '53325'
+    url: http://www.gutenberg.org/2009/agents/53325
+    wikipedia: https://en.wikipedia.org/wiki/John_Cordeaux_(ornithologist)
+  - agent_name: Harvie-Brown, J. A. (John Alexander)
+    aliases:
+    - Harvie-Brown, John Alexander
+    - Brown, J. A. Harvie
+    birthdate: 1844
+    deathdate: 1916
+    gutenberg_agent_id: '53324'
+    url: http://www.gutenberg.org/2009/agents/53324
+    wikipedia: https://en.wikipedia.org/wiki/John_Alexander_Harvie-Brown
+  - agent_name: Kermode, Phillip M. C.
+    gutenberg_agent_id: '53365'
+    url: http://www.gutenberg.org/2009/agents/53365
+description: ''
+gutenberg_issued: '2021-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Report on the Migration of Birds in the Spring and Autumn of 1881
+url: http://www.gutenberg.org/ebooks/65471
